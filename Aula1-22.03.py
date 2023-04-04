@@ -36,3 +36,13 @@ print("""Cardápio:
 2 - Pizza {}
 3 - dogao {}
 4 - refri {} """.format(ham,pizza,dogao,refri))
+# concatenar texto
+texto1 = "O mauricio é top."
+texto2 = "Top demais"
+print(texto1+texto2)
+print("")
+#Declarar lista
+lista = ["Batatinha",'Frita',1,2,3]
+# Imprimir as variaveis na tela
+print(lista)
+#
