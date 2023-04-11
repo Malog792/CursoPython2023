@@ -3,7 +3,7 @@
 
 combustivel = input("Qual combustível será abastecido? 'G' para Gasolina e 'A' para Àlcool").upper()
 
-litros = float(input("Qauntos litros de Combustivel serão abastecidos?"))
+litros = float(input("Quantos litros de Combustivel serão abastecidos?"))
 
 gasolina = 5
 alcool = 3
